@@ -1,0 +1,2 @@
+# thesis
+Residual strength models 
